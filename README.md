@@ -1,3 +1,3 @@
 
-# SQL analysis of the DVDrental database using PostgreSQL and python.
+# Data analysis of the DVDrental database using PostgreSQL and python.
 
